@@ -24,14 +24,11 @@ title:                 Zou Chunting
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "勇者不败".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
-  Open `_config.yml` to edit this text.
+  "Keep Coding".
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Best Jekyll Theme by a Mile".
-  Open `_config.yml` to edit this text.
+  "From Zero to Hero".
 
 # A list of keywords for your blog
 keywords:              []
@@ -52,10 +49,10 @@ author:
 menu:
   - title:             Example
     url:               /example/
-  - title:             Documentation
-    url:               https://hydejack.com/docs/
-  - title:             About
-    url:               /about/
+  #- title:             Documentation
+  #  url:               https://hydejack.com/docs/
+  #- title:             About
+  #  url:               /about/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -66,7 +63,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2019. All rights reserved. Open `_config.yml` to edit this text.
+copyright:             © 2019. All rights reserved. 
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
